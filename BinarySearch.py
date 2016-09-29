@@ -1,7 +1,9 @@
 #David Justice
 #9-22-16
 #Binary Search
-
+#################################
+#Work in progress
+############################
 
 def search(numlist, itemSearch):
     found = False
